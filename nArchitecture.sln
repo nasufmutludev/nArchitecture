@@ -37,15 +37,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "src\demoProjects\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "rentACar", "rentACar", "{BFE30183-F5DE-46B1-99BA-6F473BF4473B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "src\demoProjects\templateProject\rentACar\Application\Application.csproj", "{59DFDC3F-B1F5-4223-8A42-FE03F98F0CCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "src\demoProjects\templateProject\rentACar\Application\Application.csproj", "{59DFDC3F-B1F5-4223-8A42-FE03F98F0CCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "src\demoProjects\templateProject\rentACar\Domain\Domain.csproj", "{23D51AF2-6117-42AF-AE74-EB8E30470110}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "src\demoProjects\templateProject\rentACar\Domain\Domain.csproj", "{23D51AF2-6117-42AF-AE74-EB8E30470110}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "src\demoProjects\templateProject\rentACar\Infrastructure\Infrastructure.csproj", "{9BEE538C-06A2-4EA8-9A6D-49E195098927}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "src\demoProjects\templateProject\rentACar\Infrastructure\Infrastructure.csproj", "{9BEE538C-06A2-4EA8-9A6D-49E195098927}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "src\demoProjects\templateProject\rentACar\Persistence\Persistence.csproj", "{EEBE778F-C701-4413-9933-FE4E5130F541}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistence", "src\demoProjects\templateProject\rentACar\Persistence\Persistence.csproj", "{EEBE778F-C701-4413-9933-FE4E5130F541}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "src\demoProjects\templateProject\rentACar\WebAPI\WebAPI.csproj", "{DCB00BBC-EB2F-40DD-A601-E9848A5267C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "src\demoProjects\templateProject\rentACar\WebAPI\WebAPI.csproj", "{DCB00BBC-EB2F-40DD-A601-E9848A5267C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
