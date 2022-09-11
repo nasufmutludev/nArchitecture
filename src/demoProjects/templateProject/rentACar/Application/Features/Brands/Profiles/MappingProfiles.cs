@@ -19,6 +19,7 @@ namespace Application.Features.Brands.Profiles
             CreateMap<Brand, CreatedBrandEntityDto>().ReverseMap();
             CreateMap<Brand, CreateBrandEntityCommand>().ReverseMap();
             CreateMap<Brand, BrandListDto>().ReverseMap();
+            CreateMap<Brand, BrandGetByIdDto>().ReverseMap();
             CreateMap<IPaginate<Brand>, BrandListModel>().ReverseMap();
         }
     }
